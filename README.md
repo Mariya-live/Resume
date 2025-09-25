@@ -9,7 +9,7 @@ Welcome to my Resume Repository 👋
 
  My Projects- 
 
- 1.[HR Analytics Dashboard](Excel)(https://github.com/Mariya-live/Data-Analytics-Projects/tree/main/HR%20Analytics)  
+ 1.[HR Analytics Dashboard](https://github.com/Mariya-live/Data-Analytics-Projects/tree/main/HR%20Analytics)(Excel)  
  
  2.[Superstore Sales Analysis] (Excel)
  (https://github.com/Mariya-live/Data-Analytics-Projects/tree/main/Superstore_Sales_Analysis)
